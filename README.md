@@ -51,15 +51,14 @@ Depois, basta atualizar o caminho da fonte de dados no Power BI.
 ## 🔗 Links Úteis
 
 - 📦 [Download do Dashboard - Versão Atual](#)  
-- 📦 [Download do Dashboard - Versão 2025](#)  
-- 🔎 [Visualize o Dashboard Online](#)
+
 
 ---
 
 ## 🙌 Agradecimento
 
-Esse projeto foi feito com carinho nas horas vagas para contribuir com quem busca melhorar o controle financeiro.  
-Se esse trabalho foi útil pra você, **curta, comente e compartilhe** para que mais pessoas sejam beneficiadas!
+Esse projeto foi feito com carinho e como forma de aprendiizado nas horas vagas, para contribuir com quem busca melhorar o controle financeiro.  
+Se esse trabalho foi útil pra você, **curta, comente e compartilhe**
 
 ---
 
